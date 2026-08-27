@@ -22,3 +22,5 @@ A full-stack MCQ exam platform:
 ## 5. Tech stack
 - Frontend: React 18, Vite, React Router v6, Tailwind CSS, Firebase Auth, Axios
 - Backend: Express, MongoDB driver, firebase-admin (token verification)
+
+**Live Website:** [Visit Website](https://exam-52810.web.app)
